@@ -11,3 +11,86 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.btn-search{
+  width: 70px;
+  border-radius: 1px;
+   color: black;
+   background-color: white;
+   margin-right: 5px;
+   border-radius: 10px;
+}
+.btn-search:hover {
+  background-color:rgb(236, 177, 177);
+  
+ 
+}
+.brand-color{
+  color:rgb(236, 177, 177);
+}
+.title{
+  color: rgb(245, 165, 165);
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+  
+}
+
+.underline{
+  width: 100%;
+  margin-top: -3px;
+  border: none;
+  border-top: 3px solid rgb(32, 31, 31);
+  justify-content: center;
+  align-items: center;
+}
+.btn{
+  color: black;
+  border: 1px solid  rgb(245, 165, 165);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.btn:hover{
+  color:  rgb(245, 165, 165);
+  border: 1px solid  rgb(245, 165, 165);
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+  border-radius: 11px;
+  border: none;
+ background-color: black;
+}
+.img-item{
+  max-width: 200px;
+  height: 100px;
+  border-radius: 20px;
+
+}
+.item-title{
+  color: rgb(248, 148, 148);
+  line-height: 20px;
+  font-size: 16px;
+}
+.item-description{
+  color: rgb(82, 79, 79);
+}
+.main-card{
+  border: none;
+  background-color: white;
+}
+.item-price{
+  color: rgb(248, 148, 148) ;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+.card-color{
+  color: white;
+}
+.item-details{
+  display: flex;
+  justify-content: space-between;
+}
+
