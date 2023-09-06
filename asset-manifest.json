@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Menu-Project/static/css/main.0277c0e1.css",
+    "main.js": "/Menu-Project/static/js/main.5672d61b.js",
+    "index.html": "/Menu-Project/index.html",
+    "main.0277c0e1.css.map": "/Menu-Project/static/css/main.0277c0e1.css.map",
+    "main.5672d61b.js.map": "/Menu-Project/static/js/main.5672d61b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0277c0e1.css",
+    "static/js/main.5672d61b.js"
+  ]
+}
